@@ -81,18 +81,18 @@ class HomeBannerSection extends StatelessWidget {
                       const Gap(30),
 
                       // 5) Stats & Why section
-                      const StatsAndWhySection(),
+                      //const StatsAndWhySection(),
 
                       const Gap(30),
 
                       // 6) Formation timeline
-                      const FormationTimelineSection(),
+                      //const FormationTimelineSection(),
                       // 7) Why incorporate
-                      const WhyIncorporateSection(),
+                      //const WhyIncorporateSection(),
 
                       // 8) Pricing section
-                      const TransparentPricingSection(),
-                      Business(),
+                      //const TransparentPricingSection(),
+                      //Business(),
                     ],
                   ),
                 ),
